@@ -3,13 +3,13 @@ Deployed Live Link: https://task-dk40.onrender.com/ (authorized user login requi
 
 ## Admin Demographics Page Screenshots
 ### Entry Table
-![alt text](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_entry_table.png)
+![Entry Table widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_entry_table.png)
 ### Count Table
 ![Count Table widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_count_table.png)
 ### Graph by Demographic
-![Entry Table widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_demo.png)
+![Graph by Demographic widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_demo.png)
 ### Graph by Meal Site
-!(https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_site.png)
+![Graph by Meal Site widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_site.png)
 ### Graph by Date
-!(https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_date.png)
+![Graph by Date widget on TASK Admin page](https://github.com/andresblancobonilla/TASK_Website/blob/main/screenshots/task_graph_by_date.png)
 
